@@ -1,0 +1,45 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py27_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/free/osx-64",
+  "date": "2016-06-07",
+  "depends": [
+    "python 2.7*"
+  ],
+  "files": [
+    "lib/python2.7/site-packages/certifi-2016.2.28-py2.7.egg-info/PKG-INFO",
+    "lib/python2.7/site-packages/certifi-2016.2.28-py2.7.egg-info/SOURCES.txt",
+    "lib/python2.7/site-packages/certifi-2016.2.28-py2.7.egg-info/dependency_links.txt",
+    "lib/python2.7/site-packages/certifi-2016.2.28-py2.7.egg-info/top_level.txt",
+    "lib/python2.7/site-packages/certifi/__init__.py",
+    "lib/python2.7/site-packages/certifi/__init__.pyc",
+    "lib/python2.7/site-packages/certifi/__main__.py",
+    "lib/python2.7/site-packages/certifi/__main__.pyc",
+    "lib/python2.7/site-packages/certifi/cacert.pem",
+    "lib/python2.7/site-packages/certifi/core.py",
+    "lib/python2.7/site-packages/certifi/core.pyc",
+    "lib/python2.7/site-packages/certifi/old_root.pem",
+    "lib/python2.7/site-packages/certifi/weak.pem"
+  ],
+  "fn": "certifi-2016.2.28-py27_0.tar.bz2",
+  "license": "ISC",
+  "license_family": "Other",
+  "link": {
+    "source": "/Users/manikanthadusumilli/anaconda/pkgs/certifi-2016.2.28-py27_0",
+    "type": 1
+  },
+  "md5": "a5d8881b434ed50248e9afbc9b4f1f6f",
+  "name": "certifi",
+  "noarch": null,
+  "platform": "darwin",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "defaults",
+  "size": 215930,
+  "subdir": "osx-64",
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/certifi-2016.2.28-py27_0.tar.bz2",
+  "version": "2016.2.28",
+  "with_features_depends": {}
+}
